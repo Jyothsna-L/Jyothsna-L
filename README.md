@@ -10,7 +10,7 @@
 
 <b> Progress #30NitesOfCode:</b>
   [Check out my progress!](https://www.codedex.io/@JoOnTheGo/30-nites-of-code)  
-  ![@JoOnTheGo #30NitesOfCode](https://www.codedex.io/api/petStatus?user=JoOnTheGo)
+  
 
 <!---
 Jyothsna-L/Jyothsna-L is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
