@@ -8,9 +8,9 @@
 
 <b>Happy to be a part of the GitHub community!</b> 😊
 
-<b>Progress:</b> <a href = "## #30NitesOfCode:
+<b>Progress:</b> ## #30NitesOfCode:
   [Check out my progress!](https://www.codedex.io/@JoOnTheGo/30-nites-of-code)  
-  ![@JoOnTheGo #30NitesOfCode](https://www.codedex.io/api/petStatus?user=JoOnTheGo)">🐥
+  ![@JoOnTheGo #30NitesOfCode](https://www.codedex.io/api/petStatus?user=JoOnTheGo)🐥
 
 <!---
 Jyothsna-L/Jyothsna-L is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
